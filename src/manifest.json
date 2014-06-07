@@ -2,7 +2,7 @@
     "name": "Grove.io",
     "version": "0.1",
     "manifest_version": 2,
-    "description": "Grove.io's [unofficial] desktop client",
+    "description": "Grove.io's desktop client",
     "app":{
         "urls": [
             "*://*.grove.io/",
